@@ -1,0 +1,14 @@
+layout_spectrum: 0.4423433495685458
+typography_spectrum: 0.3473282696213573
+color:
+  brandStrength: 0.3113288281019777
+  lightness: 0.28662965213879943
+  saturation: 0.8639740978833288
+  rhythmicContrast: 0.420004793908447
+  brandColors:
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+name: Soapbox
